@@ -12,6 +12,8 @@ pip3 install pandas
 pip3 install beautifulsoup4
 pip3 install -U matplotlib
 
+If it is easier to read online, everything has been uploaded to GitHub and can be accessed here:
+https://github.com/lizbegley26/Phillies_Project 
 
 Lastly, I just wanted to say thank you for taking the time to look at my project! I had a lot of fun with this. 
 
